@@ -1,4 +1,4 @@
-## Hi ther, nice to meet you 👋
+## Hi there, nice to meet you 👋
 
 Welcome to my page! 
 My name is Arthur Gomes, I am an Android Enginner currently working fromn São Paulo, Brazil. 
